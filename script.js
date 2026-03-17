@@ -2,7 +2,7 @@ const products = [
   {
     name: "Pulseira Malachite Silver",
     description: "Pedras verdes naturais com detalhes em aço polido.",
-    image: "https://drive.google.com/uc?export=view&id=1MmGyPIl-RZGS5WDn1-Kio1prMnnaim9z"
+    image: "img/pulseira-malachite-silver.jpg"
   },
   {
     name: "Pulseira Mint Pearl",
