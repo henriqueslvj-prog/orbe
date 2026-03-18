@@ -7,17 +7,17 @@ const products = [
   {
     name: "Pulseira Mint Pearl",
     description: "Composição leve em tons claros e acabamento sofisticado.",
-    image: "https://drive.google.com/uc?export=view&id=192FnhaiirYLtv_rDPYeeCjc9xd_bJgM5"
+    image: "img/pulseira-mint-pearl.jpg"
   },
   {
     name: "Pulseira Hematite Black",
     description: "Visual contemporâneo com contraste entre hematita e pérolas.",
-    image: "https://drive.google.com/uc?export=view&id=192FnhaiirYLtv_rDPYeeCjc9xd_bJgM5"
+    image: "img/pulseira-hematite-black.jpg"
   },
   {
     name: "Pulseira Eclipse Noir",
     description: "Design minimalista em tons escuros para uso diário premium.",
-    image: "https://drive.google.com/uc?export=view&id=1MmGyPIl-RZGS5WDn1-Kio1prMnnaim9z"
+    image: "img/pulseira-eclipse-noir.jpg"
   }
 ];
 
